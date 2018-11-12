@@ -1,0 +1,66 @@
+from census data
+
+ALG can know:
+- location
+ 'State',
+ 'State_name',
+ 'County',
+ 'County_name',
+- pop
+ 'Tot_Population_ACS_10_14',
+- pop density
+ 'Tot_Population_ACS_10_14',
+ 'LAND_AREA'
+- age
+'pct_Pop_under_5_ACS_10_14',
+ 'pct_Pop_18_24_ACS_10_14',
+ 'pct_Pop_25_44_ACS_10_14',
+ 'pct_Pop_45_64_ACS_10_14', 
+ 'pct_Pop_65plus_ACS_10_14',
+- house value
+ 'Med_House_Value_ACS_10_14',
+ 'avg_Agg_House_Value_ACS_10_14'
+- poverty
+ 'pct_Prs_Blw_Pov_Lev_ACS_10_14'
+- education
+ 'pct_Not_HS_Grad_ACS_10_14',
+ 'pct_College_ACS_10_14',
+- ethnicity
+ 'pct_Hispanic_ACS_10_14',
+ 'pct_NH_AIAN_alone_ACS_10_14',
+ 'pct_NH_Asian_alone_ACS_10_14',
+ 'pct_NH_Blk_alone_ACS_10_14',
+ 'pct_NH_NHOPI_alone_ACS_10_14',
+ 'pct_NH_SOR_alone_ACS_10_14',
+ 'pct_NH_White_alone_ACS_10_14'
+- unemployment rate
+ 'pct_Civ_unemp_16p_ACS_10_14'
+- intl or not
+ 'pct_NON_US_Cit_ACS_10_14',
+
+User info:
+- marital status
+ 'pct_MrdCple_HHD_ACS_10_14',
+ 'pct_Not_MrdCple_HHD_ACS_10_14',
+- gender
+ 'pct_Males_ACS_10_14',
+ 'pct_Females_ACS_10_14',
+- age
+'pct_Pop_under_5_ACS_10_14',
+ 'pct_Pop_18_24_ACS_10_14',
+ 'pct_Pop_25_44_ACS_10_14',
+ 'pct_Pop_45_64_ACS_10_14', 
+ 'pct_Pop_65plus_ACS_10_14',
+- ethnicity
+ 'pct_Hispanic_ACS_10_14',
+ 'pct_NH_AIAN_alone_ACS_10_14',
+ 'pct_NH_Asian_alone_ACS_10_14',
+ 'pct_NH_Blk_alone_ACS_10_14',
+ 'pct_NH_NHOPI_alone_ACS_10_14',
+ 'pct_NH_SOR_alone_ACS_10_14',
+ 'pct_NH_White_alone_ACS_10_14'
+- intl or not
+ 'pct_NON_US_Cit_ACS_10_14',
+- income
+ 'Med_HHD_Inc_ACS_10_14',
+ 'avg_Agg_HH_INC_ACS_10_14',
